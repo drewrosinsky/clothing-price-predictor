@@ -44,8 +44,8 @@ An interactive Streamlit web app allows users to:
 
 ## 📸 Screenshots
 
-![Model Performance](Screenshots/model_results.png)
-![Streamlit App](images/streamlit_app.png)
+![Model Performance](Screenshots/four_ml_models.png)
+![Streamlit App](Screenshots/ml_website.png)
 
 ## 📁 Project Structure
 
