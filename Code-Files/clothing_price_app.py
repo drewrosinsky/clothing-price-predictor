@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import GradientBoostingRegressor
 
 # Page configuration
