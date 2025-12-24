@@ -7,6 +7,10 @@ A machine learning project that predicts the resale value of thrifted clothing i
 
 This project uses machine learning to help thrift store resellers price their inventory more accurately. By analyzing patterns in clothing attributes, the model can predict fair resale prices with 72% accuracy.
 
+## 🪩 Live Demo
+
+Try the interactive app: https://clothing-price-predictor.streamlit.app/
+
 ## 📊 Dataset
 
 - **Size**: 1,000 clothing items
