@@ -42,15 +42,10 @@ An interactive Streamlit web app allows users to:
 - Get instant price predictions
 - Receive contextual pricing insights
 
-### Running the App
+## 📸 Screenshots
 
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the web app
-streamlit run app.py
-```
+![Model Performance](Screenshots/model_results.png)
+![Streamlit App](images/streamlit_app.png)
 
 ## 📁 Project Structure
 
